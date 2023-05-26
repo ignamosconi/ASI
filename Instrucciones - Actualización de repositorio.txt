@@ -1,0 +1,20 @@
+LINK REPOSITORIO: https://github.com/ignamosconi/ASI.git
+
+1. Tener descargado GIT - https://git-scm.com/downloads
+
+2. Abrir la terminal de GIT en la carpeta donde queremos clonar el reposotorio.
+
+3. git clone https://github.com/ignamosconi/ASI.git	→ Clona el reposotorio
+
+4. Ahora podemos trabajar con los archivos (añadir nuevos, modificar anteriores, etc.)
+
+5. git add . 	→ Actualiza el repositorio de forma local. Si en vez de punto ponemos el nombre de un archivo específico,
+solo ese archivo será actualizado
+
+6. git commit -m "COMENTARIO"	→ Permite comentar la actualización realizada. Buena praxis, evita perdernos en las versiones.
+
+7. Para subir nuestro repositorio local a la nube (a través de GITHUB) debemos:
+   git remote add origin https://github.com/ignamosconi/ASI.git
+   git push 
+
+8. git status	→ Nos informa si alguno de los archivos de nuestro repositorio local NO está subido en la nube
