@@ -2,9 +2,9 @@ LINK REPOSITORIO: https://github.com/ignamosconi/ASI.git
 
 1. Tener descargado GIT - https://git-scm.com/downloads
 
-2. Abrir la terminal de GIT en la carpeta donde queremos clonar el reposotorio.
+2. Abrir la terminal de GIT en la carpeta donde queremos clonar el repositorio.
 
-3. git clone https://github.com/ignamosconi/ASI.git	→ Clona el reposotorio
+3. git clone https://github.com/ignamosconi/ASI.git	→ Clona el repositorio
 
 4. Ahora podemos trabajar con los archivos (añadir nuevos, modificar anteriores, etc.)
 
