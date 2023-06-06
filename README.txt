@@ -1,4 +1,4 @@
-LINK REPOSITORIO: https://github.com/ignamosconi/ASI.git
+drkjbnvdfijbndsjbnidjzfbn LINK REPOSITORIO: https://github.com/ignamosconi/ASI.git
 
 1. Tener descargado GIT - https://git-scm.com/downloads
 
