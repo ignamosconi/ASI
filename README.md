@@ -1,5 +1,5 @@
 <p></p><img src="https://github.com/ignamosconi/ASI/blob/master/Imagenes/Marca%20de%20agua%20SIMPLE%20-%20UTN%20FRVM.png" align-items="center" width="700" height="200">
-<h2> TRABAJO PRÁCTICO INTEGRADOR "CANTINA" - ANALISÍS DE SISTEMAS - GRUPO "B" <br> Ingeniería en sistemas - 2do Año </br></h2>
+<h2> TRABAJO PRÁCTICO INTEGRADOR "CANTINA" <br> ANALISÍS DE SISTEMAS - GRUPO "B" - ING EN SISTEMAS</br></h2>
 
 <p> El presente trabajo se desarrolla en el marco de la materia Análisis de Sistemas de Información, dictada en la Universidad Tecnológica Nacional Facultad Regional Villa María; situada en Av. Universidad 450. </p>
 
