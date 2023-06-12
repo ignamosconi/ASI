@@ -17,7 +17,7 @@
 
 <p> El desarrollo abarca las actividades de modelado del dominio hasta las actividades de especificación de requisitos del sistema de software que le dará soporte a los procesos de negocio principales. </p>
 
-<b> Integrantes: </b> Liendo, Alejo; Lucarelli, Bruno; Magni, Gastón; Mosconi, Ignacio; Monti, Agustín; Nievas, Maximiliano; Presuttari, Matías; Terreno, Valentino
+<b> Integrantes: </b> Liendo, Alejo; Lucarelli, Bruno; Magni, Gastón; Mosconi, Ignacio; Monti, Agustín; Nievas, Maximiliano; Presuttari, Matías; Terreno, Valentino.
 
 
 
