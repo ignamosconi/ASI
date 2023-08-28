@@ -5,25 +5,6 @@
 	"ownedElements": [
 		{
 			"_type": "UMLModel",
-			"_id": "AAAAAAFF+qBWK6M3Z8Y=",
-			"_parent": {
-				"$ref": "AAAAAAFF+h6SjaM2Hec="
-			},
-			"name": "Model",
-			"ownedElements": [
-				{
-					"_type": "UMLClassDiagram",
-					"_id": "AAAAAAFF+qBtyKM79qY=",
-					"_parent": {
-						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
-					},
-					"name": "Main",
-					"defaultDiagram": true
-				}
-			]
-		},
-		{
-			"_type": "UMLModel",
 			"_id": "AAAAAAGKPO9U3I+8U5Q=",
 			"_parent": {
 				"$ref": "AAAAAAFF+h6SjaM2Hec="
@@ -4710,9 +4691,9 @@
 											"font": "Arial;13;1",
 											"left": 589,
 											"top": 213,
-											"width": 49.86083984375,
+											"width": 80.6787109375,
 											"height": 13,
-											"text": "Sistema"
+											"text": "Sistema Web"
 										},
 										{
 											"_type": "LabelView",
@@ -4745,7 +4726,7 @@
 									"font": "Arial;13;0",
 									"left": 584,
 									"top": 206,
-									"width": 59.86083984375,
+									"width": 90.6787109375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGKPTYTBuUXFLA="
@@ -4829,7 +4810,7 @@
 							"containerChangeable": true,
 							"left": 584,
 							"top": 152,
-							"width": 59.86083984375,
+							"width": 90.6787109375,
 							"height": 80,
 							"nameCompartment": {
 								"$ref": "AAAAAAGKPTYTBuUWWFE="
@@ -5069,8 +5050,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 677,
-									"top": 170,
+									"left": 693,
+									"top": 171,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -5090,8 +5071,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 677,
-									"top": 155,
+									"left": 693,
+									"top": 156,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -5111,8 +5092,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 676,
-									"top": 199,
+									"left": 693,
+									"top": 201,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -5132,8 +5113,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 670,
-									"top": 170,
+									"left": 700,
+									"top": 171,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -5153,7 +5134,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 672,
+									"left": 703,
 									"top": 157,
 									"height": 13,
 									"alpha": 0.7853981633974483,
@@ -5174,8 +5155,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 665,
-									"top": 197,
+									"left": 696,
+									"top": 198,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -5196,7 +5177,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 685,
-									"top": 170,
+									"top": 171,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -5215,7 +5196,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 683,
+									"left": 682,
 									"top": 157,
 									"height": 13,
 									"alpha": -0.7853981633974483,
@@ -5285,7 +5266,7 @@
 								"$ref": "AAAAAAGKPTYTBuUVCs8="
 							},
 							"lineStyle": 1,
-							"points": "644:191;711:192",
+							"points": "675:192;711:192",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGKPTblGALLbKI="
@@ -8009,7 +7990,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGKPO9U3I+8U5Q="
 					},
-					"name": "Sistema",
+					"name": "Sistema Web",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
