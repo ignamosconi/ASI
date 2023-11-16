@@ -1567,7 +1567,7 @@
 											"top": 795.5,
 											"width": 260,
 											"height": 13,
-											"text": "8 - Registrar pedido entregado"
+											"text": "8 - Registrar pedido Cuenta Corriente"
 										},
 										{
 											"_type": "LabelView",
@@ -7022,7 +7022,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGKPO9U3I+8U5Q="
 					},
-					"name": "8 - Registrar pedido entregado"
+					"name": "8 - Registrar pedido Cuenta Corriente"
 				},
 				{
 					"_type": "UMLUseCase",
@@ -7867,7 +7867,7 @@
 									"font": "Arial;13;0",
 									"left": 299.5,
 									"top": 172.5,
-									"width": 324.24072265625,
+									"width": 323,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGKiVuh4lGmFQo="
@@ -8061,7 +8061,7 @@
 									"font": "Arial;13;0",
 									"left": 431,
 									"top": 220.5,
-									"width": 225.2490234375,
+									"width": 224,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGKiVvNuFHX78c="
@@ -8260,7 +8260,7 @@
 									"font": "Arial;13;0",
 									"left": 435.5,
 									"top": 284.5,
-									"width": 246.9580078125,
+									"width": 246,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGKiVvW3VIEh+c="
@@ -8459,7 +8459,7 @@
 									"font": "Arial;13;0",
 									"left": 402,
 									"top": 340.5,
-									"width": 202.88623046875,
+									"width": 202,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGKiVxIv1I0nKY="
@@ -8658,7 +8658,7 @@
 									"font": "Arial;13;0",
 									"left": 368,
 									"top": 396.5,
-									"width": 191.3271484375,
+									"width": 190,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGKiVxWrlJhBZ0="
@@ -8857,7 +8857,7 @@
 									"font": "Arial;13;0",
 									"left": 272,
 									"top": 460.5,
-									"width": 192.03173828125,
+									"width": 191,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGKiVxfyVKOi0U="
