@@ -577,7 +577,7 @@
 											"top": 1221,
 											"width": 173.8115234375,
 											"height": 13,
-											"text": "+pedidoCuentaCorriente()",
+											"text": "+pedidoEntregado()",
 											"horizontalAlignment": 0
 										},
 										{
@@ -599,6 +599,23 @@
 										},
 										{
 											"_type": "UMLOperationView",
+											"_id": "AAAAAAGL6CAcTJ7ZYW4=",
+											"_parent": {
+												"$ref": "AAAAAAGLytrVrAp94hI="
+											},
+											"model": {
+												"$ref": "AAAAAAGL6CAcIp7WdpU="
+											},
+											"font": "Arial;13;0",
+											"left": 1805,
+											"top": 1251,
+											"width": 173.8115234375,
+											"height": 13,
+											"text": "+pedidoCobradoCtaCte()",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
 											"_id": "AAAAAAGLyusoGV+GOX8=",
 											"_parent": {
 												"$ref": "AAAAAAGLytrVrAp94hI="
@@ -608,7 +625,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 1805,
-											"top": 1251,
+											"top": 1266,
 											"width": 173.8115234375,
 											"height": 13,
 											"text": "+pedidoCancelado()",
@@ -625,7 +642,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 1805,
-											"top": 1266,
+											"top": 1281,
 											"width": 173.8115234375,
 											"height": 13,
 											"text": "+actualizarPedido()",
@@ -636,7 +653,7 @@
 									"left": 1800,
 									"top": 1051,
 									"width": 183.8115234375,
-									"height": 233
+									"height": 248
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -9683,7 +9700,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGLytrVpgp0hwE="
 							},
-							"name": "pedidoCuentaCorriente"
+							"name": "pedidoEntregado"
 						},
 						{
 							"_type": "UMLOperation",
@@ -9692,6 +9709,14 @@
 								"$ref": "AAAAAAGLytrVpgp0hwE="
 							},
 							"name": "pedidoCobrado"
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGL6CAcIp7WdpU=",
+							"_parent": {
+								"$ref": "AAAAAAGLytrVpgp0hwE="
+							},
+							"name": "pedidoCobradoCtaCte"
 						},
 						{
 							"_type": "UMLOperation",
